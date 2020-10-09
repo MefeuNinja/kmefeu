@@ -2,7 +2,7 @@
 
 Understand the relationships between humans and technology is a really fascinating thing to me. I believe that after each little step forward in science and technology, humanity behaviors change a lot. For me it would be amazing, as a creator, a designer and a future engineer, to contribute to one of these steps. There is nothing that makes me curious that I’m not interested to learn - and, as I've found, there are a lot of things that I’m curious about.
 
-- 🔭 I’m currently open to work
+- 🔭 Inter at [Pecege] (https://pecege.com/)
 
 - 🌱 I’m currently learning webdesgin and AI
 
