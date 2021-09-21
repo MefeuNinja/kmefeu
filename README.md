@@ -4,15 +4,9 @@ Understand the relationships between humans and technology is a really fascinati
 
 - 🔭 Inter at [Pecege](https://pecege.com/)
 
-- 🌱 I’m currently learning webdesgin and AI
-
-- 🤔 I’m looking for help with [Harvard CS50 Python challenges](https://online-learning.harvard.edu/course/cs50s-introduction-artificial-intelligence-python?delta=0)
-
 - 💬 Ask me about anything you want
 
 - 📫 How to reach me: [mcorreadesign@gmail.com](mcorreadesign@gmail.com)
-
-- ⚡ Fun fact: I'll probably be a master of engineering before I become an engineer
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=kmefeu&show_icons=true" alt="kmefeu"/>
