@@ -2,7 +2,4 @@
 
 Feel free to contact me. We can be in touch in English and Portuguese. [mcorreadesign@gmail.com](mcorreadesign@gmail.com)
 
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=kmefeu&show_icons=true" alt="kmefeu"/>
-<br/>
 
